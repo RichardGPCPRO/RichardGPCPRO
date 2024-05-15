@@ -1,4 +1,4 @@
-## Bem vindos  <a href="https://github.com/RichardGPCPRO"><img align="right" alt="animezim" height="165" width="165" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
+## Bem vindos  <a href="https://github.com/RichardGPCPRO"><img align="right" alt="animezim" height="165" width="165" src="file:///C:/Users/Aluno/Downloads/anime-dragon-illustration.png"></a>
 
  
  ◽ 🍂 Eu me chamo Richard Wagner, tenho 20 anos;  
