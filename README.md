@@ -1,7 +1,7 @@
 ## Bem vindos  <a href="https://github.com/RichardGPCPRO"><img align="right" alt="animezim" height="165" width="165" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
 
  
- ◽ 🍂 Eu me chamo Camilla, tenho 27 anos;  
+ ◽ 🍂 Eu me chamo Richard Wagner, tenho 20 anos;  
  ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
  <br>◽ 🖥️ Backend developer C# ASP.NET;
  <br>◽ 📚 Estudando C++ e C#;
@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/Richardcomd_mud0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/richardprogramador" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/richard-wagner-mendes-473a61290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://open.spotify.com/user/9watzykaxfc2vokn3lthnls0?si=FrXSYmHSBGWOEVO0jwU-w" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/9watzykaxfc2vokn3lt6hnls0?si=3bd3741360eb4d52" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198089571565" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
  
