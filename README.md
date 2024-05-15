@@ -27,7 +27,7 @@
 <a href="https://www.twitch.tv/richardprogramador" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/richard-wagner-mendes-473a61290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://open.spotify.com/user/9watzykaxfc2vokn3lt6hnls0?si=3bd3741360eb4d52" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561198089571565" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
  
 ![Snake animation](https://github.com/camillatoniatto/camillatoniatto/blob/output/github-contribution-grid-snake.svg)
