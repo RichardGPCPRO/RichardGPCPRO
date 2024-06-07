@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">Estou desenvolvendo um pequeno sistema para agilizar o processo de uma empresa que ultiliza estoque <br>Ferramentas: <br>C# e arduino</h6>
+<h6 align="left">Estou desenvolvendo um pequeno sistema para agilizar o processo de uma empresa que ultiliza estoque <br>Ferramentas: <br>C++ e arduino</h6>
 
 ###
 
