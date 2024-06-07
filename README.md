@@ -44,7 +44,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/RichardGPCPRO/RichardGPCPRO/output/snake.svg" alt="Snake animation" />
 
