@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de desenvolvimento de sistemas pelo senai atualmente segundo periodo</p>
+<p align="left">Estudante de desenvolvimento de sistemas pelo senai atualmente segundo periodo procurando uma primeira experiencia na area</p>
 
 ###
 
@@ -43,4 +43,6 @@
 </div>
 
 ###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/RichardGPCPRO/RichardGPCPRO/output/snake.svg" alt="Snake animation" />
