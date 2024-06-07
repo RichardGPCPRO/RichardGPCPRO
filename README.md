@@ -2,11 +2,11 @@
 
 ###
 
-<h6 align="left">Estudante de desenvolvimento de sistemas<br>atualmente cursando o segundo período tenho<br>experiência em desenvolvimento web e banco de<br>dados . ostaria de uma de centralizar<br>e focar minhas habilidades profissionais.</h6>
+<h6 align="left">Estudante de desenvolvimento de sistemas<br>atualmente cursando o segundo período tenho<br>experiência em desenvolvimento web e banco de<br>dados . Gostaria de uma de centralizar<br>e focar minhas habilidades profissionais.</h6>
 
 ###
 
-<p align="left"></p>
+<p aliGn="left"></p>
 
 ###
 
